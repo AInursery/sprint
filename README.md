@@ -57,5 +57,6 @@ MQ Light : https://www.ng.bluemix.net/docs/#services/MQLight/index.html#mqlight0
 DashDB : https://www.ng.bluemix.net/docs/#services/dashDB/index.html#dashDB   
    
    
-##Technical Library (Vidéo and Articles, tutoriels) :    http://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&contentarea_by=All%20Zones&sort_by=Date&sort_order=1&start=1&end=77&topic_by=BlueMix&product_by=-1&type_by=All%20Types&show_abstract=false&search_by=&industry_by=-1&series_title_by=   
+##Technical Library (Vidéo and Articles, tutoriels)
+http://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&contentarea_by=All%20Zones&sort_by=Date&sort_order=1&start=1&end=77&topic_by=BlueMix&product_by=-1&type_by=All%20Types&show_abstract=false&search_by=&industry_by=-1&series_title_by=   
    
