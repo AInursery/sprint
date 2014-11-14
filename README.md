@@ -1,4 +1,4 @@
-sprint
+Sprint
 ======
   
 ##Documentation spécifiques pouvant servir aux Intelligences Artificielles :   
