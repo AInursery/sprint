@@ -2,7 +2,7 @@
 ======
 Le site du projet : http://www-01.ibm.com/software/fr/ainurseryproject/   
 Le github du projet : http://github.com/AInursery   
-Hastag : #AInursery   
+Hashtag : #AInursery   
      
 #Ressources
      
