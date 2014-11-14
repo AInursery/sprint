@@ -1,5 +1,9 @@
-Sprint
+AI Nursery Project - Sprint
 ======
+  
+Le site du projet : http://www-01.ibm.com/software/fr/ainurseryproject/
+Le github du projet : http://github.com/AInursery
+Hastag : #AInursery
   
 ##Documentation spécifiques pouvant servir aux Intelligences Artificielles :   
 Business Rules : https://www.ng.bluemix.net/docs/#services/rules/index.html#rules   
