@@ -1,11 +1,12 @@
-AI Nursery Project - Sprint
+#AI Nursery Project - Sprint
 ======
-  
-Le site du projet : http://www-01.ibm.com/software/fr/ainurseryproject/
-Le github du projet : http://github.com/AInursery
-Hastag : #AInursery
-  
-##Documentation spécifiques pouvant servir aux Intelligences Artificielles :   
+Le site du projet : http://www-01.ibm.com/software/fr/ainurseryproject/   
+Le github du projet : http://github.com/AInursery   
+Hastag : #AInursery   
+     
+#Ressources
+     
+###Documentation spécifiques pouvant servir aux Intelligences Artificielles :   
 Business Rules : https://www.ng.bluemix.net/docs/#services/rules/index.html#rules   
 Workflow : https://www.ng.bluemix.net/docs/#services/workflow/index.html#workflow   
 Analytics for Hadoop : https://www.ng.bluemix.net/docs/#services/AnalyticsforHadoop/index.html#analyticsforhadoop   
@@ -21,11 +22,11 @@ Watson services (BETA) :
   User Modeling  : https://www.ng.bluemix.net/docs/#services/UserModeling/index.html#gettingstarted   
   Visualization Rendering : https://www.ng.bluemix.net/docs/#services/VisualizationRendering/index.html#gettingstarted   
   
-##Autres Libraries Open Source (hors Bluemix) :   
+###Autres Libraries Open Source (hors Bluemix) :   
 API EchoNest de Stotify : http://developer.echonest.com/tutorial-overview.html   
 Database :  http://labrosa.ee.columbia.edu/millionsong/   
   
-##Bluemix
+###Bluemix
 Doc : https://www.ng.bluemix.net/docs/#   
 Concepts : https://www.ng.bluemix.net/docs/#overview/overview.html#ov_intro   
 Architecture : https://www.ng.bluemix.net/docs/#overview/overview.html#ov_arch   
@@ -34,12 +35,12 @@ Cloud Foundy CLI installation : http://docs.cloudfoundry.org/devguide/installcf/
 Pour les utilisateurs de GIT, il faut également l'avoir en local  :http://git-scm.com/downloads   
    
     
-##Runtimes :   
+###Runtimes :   
 Bluemix propose et supporte : Java for Liberty, Ruby on Rails, Ruby Sinatra, Node JS.    
 Bluemix permet d'utiliser les community buildpack de Cloud Foundry :    https://github.com/cloudfoundry-community/cf-docs-contrib/wiki/Buildpacks    
    
      
-##Développement rapide avec Bluemix :   
+###Développement rapide avec Bluemix :   
    
 Créer une application mobile (documentation) : https://www.ng.bluemix.net/docs/#starters/mobile.html    
 Mobile Development SDKs for Bluemix Mobile services (Push, Data, Security) :    https://www.ng.bluemix.net/docs/#starters/mobile/index.html#index    
@@ -52,7 +53,7 @@ Voir Aussi Vaadin :  https://hub.jazz.net/project/vaadin/vaadin-jpa-app/overview
    
 Documentation Principale des services Bluemix : https://www.ng.bluemix.net/docs/#services/services.html (catégories concernées : Watson, DevOps, Mobile, Web and Application, Integration, Data Management, Big Data, Security, Business Analytics, Internet of Things).    
    
-##Other technical services :   
+###Other technical services :   
 Redis : https://www.ng.bluemix.net/docs/#services/Redis/index.html#Redis    
 Data Cache : https://www.ng.bluemix.net/docs/#services/DataCache/index.html#data_cache    
 Session Cache : https://www.ng.bluemix.net/docs/#services/SessionCache/index.html#session_cache   
@@ -61,6 +62,6 @@ MQ Light : https://www.ng.bluemix.net/docs/#services/MQLight/index.html#mqlight0
 DashDB : https://www.ng.bluemix.net/docs/#services/dashDB/index.html#dashDB   
    
    
-##Technical Library (Vidéo and Articles, tutoriels)
+###Technical Library (Vidéo and Articles, tutoriels)
 http://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&contentarea_by=All%20Zones&sort_by=Date&sort_order=1&start=1&end=77&topic_by=BlueMix&product_by=-1&type_by=All%20Types&show_abstract=false&search_by=&industry_by=-1&series_title_by=   
    
